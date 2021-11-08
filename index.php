@@ -5,17 +5,18 @@
 <div class="container">
 
 <ul>
-<li><a href="index?p=home">Home</a></li>
+
+<li><a href="home">Home</a></li>
 
 <li class="dropdown">
     <a href="#" class="dropbtn">Kontak</a>
     <div class="dropdown-content">
-      <a href="index?p=email"><b>E-Mail</a>
-      <a href="index?p=no_hp">No. HP</a>
-      <a href="index?p=map">Maps</b></a>
+      <a href="email"><b>E-Mail</a>
+      <a href="kontak">No. HP</a>
+      <a href="map">Maps</b></a>
     </div>
   </li>
-<li><a href="index?p=portofolio">Portofolio</a></li>
+<li><a href="portofolio">Portofolio</a></li>
 
 </ul>
 <div class="isi">
