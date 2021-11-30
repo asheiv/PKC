@@ -1,6 +1,9 @@
 <link href="css\main.css" rel="stylesheet">
-
-<title>W</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+<title>Pramadaya Karya Cipta</title>
+<link rel="shortcut icon" href="image/icon.cur">
+</head>
 <body>
 <div class="container">
 
