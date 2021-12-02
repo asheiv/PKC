@@ -19,7 +19,15 @@
       <a href="map">Maps</b></a>
     </div>
   </li>
-<li><a href="portofolio">Portofolio</a></li>
+<li class="dropdown">
+    <a href="#" class="dropbtn">Portofolio</a>
+    <div class="dropdown-content">
+      <a href="2017"><b>2017</a>
+	  <a href="2018">2018</a>
+      <a href="2019">2019</a>
+      <a href="2020">2020</b></a>
+    </div>
+  </li>
 
 </ul>
 <div class="isi">
