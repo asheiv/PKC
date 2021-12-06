@@ -9,8 +9,15 @@
 
 <ul>
 
-<li><a href="home">Home</a></li>
+<li><a href="home"><b>Home</b></a></li>
+<li class="dropdown">
+    <a href="#" class="dropbtn"><b>Jasa</b></a>
+    <div class="dropdown-content">
+      <a href="non_konstruksi"><b>Non-Konstruksi</a>
+      <a href="konstruksi">Konstruksi</a>
 
+    </div>
+  </li>
 <li class="dropdown">
     <a href="#" class="dropbtn">Kontak</a>
     <div class="dropdown-content">
