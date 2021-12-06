@@ -17,5 +17,9 @@ if(empty($_GET['page'])) {
 	require_once 'content/2019.php';
 }elseif ($_GET['page']=='2020') {
 	require_once 'content/2020.php';
+}elseif ($_GET['page']=='non_konstruksi') {
+	require_once 'content/non_konstruksi.php';
+}elseif ($_GET['page']=='konstruksi') {
+	require_once 'content/konstruksi.php';
 }
 ?>
