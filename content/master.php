@@ -1,4 +1,5 @@
 <?php 
+error_reporting(0);
 $page = $_GET['page'];
 switch ($page) {
 case 'Home':
@@ -31,9 +32,12 @@ case 'Konstruksi':
 case 'Perizinan':
     require_once('content/perizinan.php');
     break;
-case 'Manajemen':
-    require_once('content/manajemen.php');
-    break;	
+case 'Login':
+	require_once('content/login.php');
+	break;
+case 'Logout':
+	require_once('content/logout.php');
+	break;
   default:
     require_once('content/home.php');
 }
